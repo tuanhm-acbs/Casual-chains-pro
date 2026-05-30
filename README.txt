@@ -1,11 +1,9 @@
-IELTS Chain Trainer Pro
+IELTS Chain Trainer Pro 3
 
-Upload index.html and data.js to your GitHub Pages repo.
+Upgrade included:
+- Learn Mode now loads 20 chains from one full topic.
+- If "All topics" is selected, Learn Mode auto-selects the first topic with unlearned chains.
+- The first line of each chain, the Concept, is bold and visually emphasized.
+- The Concept is not capitalized; it stays exactly as written for memorization.
 
-Features:
-- 580 chains
-- XP, level, streak
-- topic mastery
-- spaced repetition
-- games: Missing Word, 20s Battle, Chain Builder, Final Effect Quiz
-- IELTS Brainstorm mode
+Upload index.html and data.js to your Pro GitHub repo.
