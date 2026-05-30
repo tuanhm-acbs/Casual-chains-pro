@@ -1,9 +1,9 @@
-IELTS Chain Trainer Pro 3
+IELTS Chain Trainer Pro 4
 
-Upgrade included:
-- Learn Mode now loads 20 chains from one full topic.
-- If "All topics" is selected, Learn Mode auto-selects the first topic with unlearned chains.
-- The first line of each chain, the Concept, is bold and visually emphasized.
-- The Concept is not capitalized; it stays exactly as written for memorization.
+Upgrade:
+- Adds Clear / Check rewriting mode in Learn Mode.
+- Clear keeps the Concept visible and creates 4 blank fields for the remaining steps.
+- Check marks correct fields green and wrong fields red.
+- Perfect rewrite gives +10 XP.
 
 Upload index.html and data.js to your Pro GitHub repo.
